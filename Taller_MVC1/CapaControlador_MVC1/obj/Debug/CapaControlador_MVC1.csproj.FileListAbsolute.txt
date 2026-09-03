@@ -1,0 +1,9 @@
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\bin\Debug\CapaControlador_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\bin\Debug\CapaControlador_MVC1.pdb
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\obj\Debug\CapaControlador_MVC1.csproj.AssemblyReference.cache
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\obj\Debug\CapaControlador_MVC1.csproj.CoreCompileInputs.cache
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\obj\Debug\CapaControlador_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\obj\Debug\CapaControlador_MVC1.pdb
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\bin\Debug\CapaModelo_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\bin\Debug\CapaModelo_MVC1.pdb
+D:\Practica_MVC\Taller_MVC1\CapaControlador_MVC1\obj\Debug\CapaCont.99B2D1BA.Up2Date

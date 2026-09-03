@@ -1,0 +1,11 @@
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.csproj.AssemblyReference.cache
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.frmPrincipal.resources
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.csproj.GenerateResource.cache
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.csproj.CoreCompileInputs.cache
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\bin\Debug\CapaVista_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\bin\Debug\CapaVista_MVC1.pdb
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\bin\Debug\CapaControlador_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\bin\Debug\CapaControlador_MVC1.pdb
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVist.1FDE158A.Up2Date
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.dll
+D:\Practica_MVC\Taller_MVC1\CapaVista_MVC1\obj\Debug\CapaVista_MVC1.pdb

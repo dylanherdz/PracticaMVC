@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practica_MVC\\Taller_MVC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|D:\\Practica_MVC\\Taller_MVC1\\capavista_mvc1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|solutionrelative:capavista_mvc1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE3BC14-ECB9-41A7-AA95-7E485368C2ED}|CapaControlador_MVC1\\CapaControlador_MVC1.csproj|d:\\practica_mvc\\taller_mvc1\\capacontrolador_mvc1\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE3BC14-ECB9-41A7-AA95-7E485368C2ED}|CapaControlador_MVC1\\CapaControlador_MVC1.csproj|solutionrelative:capacontrolador_mvc1\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|D:\\Practica_MVC\\Taller_MVC1\\capavista_mvc1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|solutionrelative:capavista_mvc1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|D:\\Practica_MVC\\Taller_MVC1\\capavista_mvc1\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA23C732-DEDE-495F-83AE-1A5B7E1048AB}|CapaVista_MVC1\\CapaVista_MVC1.csproj|solutionrelative:capavista_mvc1\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31E82E7-7FDD-4FE1-82FC-47A4C4129493}|CapaModelo_MVC1\\CapaModelo_MVC1.csproj|D:\\Practica_MVC\\Taller_MVC1\\capamodelo_mvc1\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31E82E7-7FDD-4FE1-82FC-47A4C4129493}|CapaModelo_MVC1\\CapaModelo_MVC1.csproj|solutionrelative:capamodelo_mvc1\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "CapaVista_MVC1\\frmPrincipal.Designer.cs",
+              "ToolTip": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.Designer.cs",
+              "RelativeToolTip": "CapaVista_MVC1\\frmPrincipal.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:31:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaVista_MVC1\\frmPrincipal.cs",
+              "ToolTip": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.cs",
+              "RelativeToolTip": "CapaVista_MVC1\\frmPrincipal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:17:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "D:\\Practica_MVC\\Taller_MVC1\\CapaControlador_MVC1\\Controlador.cs",
+              "RelativeDocumentMoniker": "CapaControlador_MVC1\\Controlador.cs",
+              "ToolTip": "D:\\Practica_MVC\\Taller_MVC1\\CapaControlador_MVC1\\Controlador.cs",
+              "RelativeToolTip": "CapaControlador_MVC1\\Controlador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:39:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaVista_MVC1\\frmPrincipal.cs",
+              "ToolTip": "D:\\Practica_MVC\\Taller_MVC1\\CapaVista_MVC1\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista_MVC1\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:17:32.748Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sentencias.cs",
+              "DocumentMoniker": "D:\\Practica_MVC\\Taller_MVC1\\CapaModelo_MVC1\\Sentencias.cs",
+              "RelativeDocumentMoniker": "CapaModelo_MVC1\\Sentencias.cs",
+              "ToolTip": "D:\\Practica_MVC\\Taller_MVC1\\CapaModelo_MVC1\\Sentencias.cs",
+              "RelativeToolTip": "CapaModelo_MVC1\\Sentencias.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:32:31.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\Ejecucion_Taller_MVC1.exe.config
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\Ejecucion_Taller_MVC1.exe
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\Ejecucion_Taller_MVC1.pdb
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\CapaVista_MVC1.dll
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\CapaControlador_MVC1.dll
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\CapaVista_MVC1.pdb
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\bin\Debug\CapaControlador_MVC1.pdb
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.csproj.AssemblyReference.cache
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.Properties.Resources.resources
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.csproj.GenerateResource.cache
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.csproj.CoreCompileInputs.cache
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucio.4072D822.Up2Date
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.exe
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.pdb
+D:\Practica_MVC\Ejecucion\Ejecucion_Taller_MVC1\Ejecucion_Taller_MVC1\obj\Debug\Ejecucion_Taller_MVC1.exe.config
